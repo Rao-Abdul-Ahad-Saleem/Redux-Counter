@@ -1,0 +1,9 @@
+/* custom bg-image class */
+
+.counter-bg {
+    background-image: url('./assets/counter.jpeg');
+    background-size: cover;
+    background-position: center;
+
+
+}
